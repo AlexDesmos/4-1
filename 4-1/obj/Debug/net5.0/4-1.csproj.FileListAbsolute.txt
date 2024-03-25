@@ -1,0 +1,5 @@
+C:\Users\Borodai.aleksandr\source\repos\4-1\4-1\obj\Debug\net5.0\4-1.csproj.AssemblyReference.cache
+C:\Users\Borodai.aleksandr\source\repos\4-1\4-1\obj\Debug\net5.0\4-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borodai.aleksandr\source\repos\4-1\4-1\obj\Debug\net5.0\4-1.AssemblyInfoInputs.cache
+C:\Users\Borodai.aleksandr\source\repos\4-1\4-1\obj\Debug\net5.0\4-1.AssemblyInfo.cs
+C:\Users\Borodai.aleksandr\source\repos\4-1\4-1\obj\Debug\net5.0\4-1.csproj.CoreCompileInputs.cache
