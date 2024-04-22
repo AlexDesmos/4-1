@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mboro\\4-1\\4-1\\4-1.csproj": {}
+    "C:\\Users\\mboro\\source\\repos\\4-1\\4-1\\4-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mboro\\4-1\\4-1\\4-1.csproj": {
+    "C:\\Users\\mboro\\source\\repos\\4-1\\4-1\\4-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mboro\\4-1\\4-1\\4-1.csproj",
+        "projectUniqueName": "C:\\Users\\mboro\\source\\repos\\4-1\\4-1\\4-1.csproj",
         "projectName": "4-1",
-        "projectPath": "C:\\Users\\mboro\\4-1\\4-1\\4-1.csproj",
+        "projectPath": "C:\\Users\\mboro\\source\\repos\\4-1\\4-1\\4-1.csproj",
         "packagesPath": "C:\\Users\\mboro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mboro\\4-1\\4-1\\obj\\",
+        "outputPath": "C:\\Users\\mboro\\source\\repos\\4-1\\4-1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,28 +43,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Avalonia": {
-              "target": "Package",
-              "version": "[11.0.10, )"
-            },
-            "Avalonia.Desktop": {
-              "target": "Package",
-              "version": "[11.0.10, )"
-            },
-            "Avalonia.Diagnostics": {
-              "target": "Package",
-              "version": "[11.0.10, )"
-            },
-            "Avalonia.Fonts.Inter": {
-              "target": "Package",
-              "version": "[11.0.10, )"
-            },
-            "Avalonia.Themes.Fluent": {
-              "target": "Package",
-              "version": "[11.0.10, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
